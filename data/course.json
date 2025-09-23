@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Syntax"
+    ]
+  ],
+  "legacy_uid": "51d67067-a37a-e279-0a92-2bec43afa154",
+  "instructors": {
+    "content": [
+      "40092009-2bc0-8981-e903-0cd5a169a912"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "250c24ed-7aa0-9d43-63b3-54e0e2f1f4b9",
+    "website": "24-900-introduction-to-linguistics-fall-2012"
+  },
+  "course_title": "Introduction to Linguistics",
+  "course_description": "This course studies what is language and what does knowledge of a language consist of. It asks how do children learn languages and is language unique to humans; why are there many languages; how do languages change; is any language or dialect superior to another; and how are speech and writing related. Context for these and similar questions is provided by basic examination of internal organization of sentences, words, and sound systems. No prior training in linguistics is assumed.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.900",
+  "course_image_thumbnail": {
+    "content": "b339d550-de46-b78d-ad41-5e435aea1d49",
+    "website": "24-900-introduction-to-linguistics-fall-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "aa7cd97a-e1c7-4945-b395-22d088f51411",
+  "site_short_id": "24.900-fall-2012",
+  "site_url_path": "courses/24-900-introduction-to-linguistics-fall-2012",
+  "title": "Course Metadata"
+}
