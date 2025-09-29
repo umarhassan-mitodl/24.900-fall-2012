@@ -19,50 +19,50 @@ RESOURCES
 {{< tdclose >}}{{< tdopen >}}
 Introduction
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "86edfb34-336d-4e8f-9b59-a958e95b0744" "Linguistic Society of America" %}}, a site featuring essays about the various branches of linguistics
+[Linguistic Society of America](http://www.linguisticsociety.org/), a site featuring essays about the various branches of linguistics
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2–4
 {{< tdclose >}}{{< tdopen >}}
 Morphology
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "975bbae8-d7f7-4f32-8fa8-fa5b3e1b09fb" "Cross-linguistic onomatopoeias" %}}, Wikipedia.org
+[Cross-linguistic onomatopoeias](http://en.wikipedia.org/wiki/Cross-linguistic_onomatopoeias), Wikipedia.org
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5–7
 {{< tdclose >}}{{< tdopen >}}
 Phonetics (sounds of speech: production and perception)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "ed23515f-c853-4e46-9bb4-53b839d8c00d" "The International Phonetic Alphabet (IPA)" %}}
+[The International Phonetic Alphabet (IPA)](https://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/#ipachartstart)
 
-{{% resource_link "4b490f57-1a32-4013-b8f1-8dcc649ea4b2" "The International Phonetic Association" %}}
+[The International Phonetic Association](https://www.internationalphoneticassociation.org/)
 
-hmcnally. "The McGurk effect." July 3, 2006. YouTube. Accessed February 14, 2013. {{% resource_link "bf9eec3a-e72d-4db5-8883-c9e8c8aa32a5" "http://www.youtube.com/watch?v=aFPtc8BVdJk" %}}
+hmcnally. "The McGurk effect." July 3, 2006. YouTube. Accessed February 14, 2013. [http://www.youtube.com/watch?v=aFPtc8BVdJk](http://www.youtube.com/watch?v=aFPtc8BVdJk)
 
-"{{% resource_link "71c1eb6c-0f4d-49b1-8b15-7fad7a02a78f" "The McGurk Effect" %}}," demonstrated by Professor Patricia Kuhl.
+"[The McGurk Effect](http://auditoryneuroscience.com/?q=McGurkEffect)," demonstrated by Professor Patricia Kuhl.
 
-{{% resource_link "060fbefe-a0d8-46aa-a477-614c459c6faf" "Sammy, the Interactive Sagittal Section" %}}
+[Sammy, the Interactive Sagittal Section](https://incl.pl/sammy/)
 
-{{% resource_link "ec469d08-bfc1-49ad-8d11-de37aacc0019" "Vocal Vowels" %}}: hollow plastic models of the human vocal tract turn the squawk of a duck call into vowel sounds
+[Vocal Vowels](http://www.exploratorium.edu/exhibits/vocal_vowels/vocal_vowels.html): hollow plastic models of the human vocal tract turn the squawk of a duck call into vowel sounds
 
-{{% resource_link "83cfa143-569b-46a3-ab72-6792e4fa565b" "Audacity®" %}}, a freeware audio program that can make spectrograms (multiplatform: OS X, Windows, Linux)
+[Audacity®](http://audacity.sourceforge.net/), a freeware audio program that can make spectrograms (multiplatform: OS X, Windows, Linux)
 
-{{% resource_link "99f34499-e229-46dc-96bf-72985b5b53a5" "Praat" %}}, a more specialized (free) multi-platform freeware program that can make spectrograms
+[Praat](http://www.fon.hum.uva.nl/praat/), a more specialized (free) multi-platform freeware program that can make spectrograms
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8–12
 {{< tdclose >}}{{< tdopen >}}
 Phonology (sounds of speech: their grammar)
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "e9381107-da4e-456e-aa27-e4869f2358a0" "The Speech Accent Archive" %}}
+[The Speech Accent Archive](http://accent.gmu.edu/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23–24
 {{< tdclose >}}{{< tdopen >}}
 Historical change
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "787171d5-f47d-4904-ab23-81714842eb3f" "Ethnologue: Languages of the World" %}}, an encyclopedic reference work cataloging all of the world's 6,909 known living languages
+[Ethnologue: Languages of the World](http://www.ethnologue.com/web.asp), an encyclopedic reference work cataloging all of the world's 6,909 known living languages
 
-Rosenfelder, Mark. "{{% resource_link "fff37b01-30fc-4e2f-a55d-b3769c5dd0e1" "How Likely Are Chance Resemblances Between Languages?" %}}" zomptist.com, 2002.
+Rosenfelder, Mark. "[How Likely Are Chance Resemblances Between Languages?](http://www.zompist.com/chance.htm)" zomptist.com, 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25–26
@@ -70,8 +70,8 @@ Rosenfelder, Mark. "{{% resource_link "fff37b01-30fc-4e2f-a55d-b3769c5dd0e1" "Ho
 Dialects
 {{< tdclose >}}{{< tdopen >}}
 
-Peter L. Patrick's {{% resource_link "70d1de06-dfd8-4372-9940-ad4a5cbb1c27" "links to linguistic resources" %}}
+Peter L. Patrick's [links to linguistic resources](http://privatewww.essex.ac.uk/~patrickp/links.html#AAVE)
 
-{{% resource_link "7e87e0e7-f7b1-4d81-b29f-502a88c81cc8" "The Telsur Project" %}}, a survey of linguistic changes in progress in North American English
+[The Telsur Project](http://www.ling.upenn.edu/phono_atlas/home.html), a survey of linguistic changes in progress in North American English
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

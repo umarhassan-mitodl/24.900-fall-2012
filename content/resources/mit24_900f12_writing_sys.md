@@ -4,6 +4,8 @@ description: This resource contains information regarding writing systems.
 file: /courses/24-900-introduction-to-linguistics-fall-2012/f526196bf53072b093651556de1fd93e_MIT24_900F12_Writing_Sys.pdf
 file_size: 2069436
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'This resource contains information regarding intro to linguistics 
 file: /courses/24-900-introduction-to-linguistics-fall-2012/a1fa3447efa6d4897c6be05dabb98ba8_MIT24_900F12_LanguagAcqsum.pdf
 file_size: 463473
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, requirements, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,7 +46,7 @@ From time to time, there will also be other required readings (mostly short), as
 
 Attendance in class and recitations is _required_, and will affect your grade. Though you can learn a lot from the readings, _many_ classes will present material not in the readings—or will present the material in a slightly different way.
 
-Participation in recitation discussions is part of the _communications intensive_ component required in {{% resource_link "1b268304-8397-4c1b-b503-f9609acf237e" "CI-H" %}} classes. Attendance will be taken in recitations.
+Participation in recitation discussions is part of the _communications intensive_ component required in [CI-H](http://web.mit.edu/commreq/index.html) classes. Attendance will be taken in recitations.
 
 ### Homework: Problem Sets and Papers
 
@@ -124,4 +126,4 @@ Attendance and participation
 
 {{< tableclose >}}
 
-If you have not done so already, please familiarize yourself with the {{% resource_link "1120a46c-25ed-4c56-97a0-b38bf2c761b1" "MIT Academic Integrity guidelines" %}}.
+If you have not done so already, please familiarize yourself with the [MIT Academic Integrity guidelines](http://web.mit.edu/academicintegrity).

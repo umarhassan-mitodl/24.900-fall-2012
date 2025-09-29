@@ -3,6 +3,8 @@ content_type: page
 description: This section provides readings, audio, and video material that supplements
   the course topics.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Readings and Other Materials
 uid: 24a48926-88f3-790c-77f0-7178186add1f
 ---
@@ -62,7 +64,7 @@ Derivational vs. inflectional morphology
 
 \[O'Grady\] Chapter 4, pp. 115–46.
 
-Saffran, Jenny R., Richard N. Aslin, et al. "{{% resource_link "cd2f3c4c-360d-4356-8a0b-e4de8489cf08" "Statistical Learning by 8-Month-Old Infants" %}}." *Science* 274, no. 5294 (1996): 1926–8.
+Saffran, Jenny R., Richard N. Aslin, et al. "[Statistical Learning by 8-Month-Old Infants](http://dx.doi.org/10.1126/science.274.5294.1926)." *Science* 274, no. 5294 (1996): 1926–8.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Phonetics (Sounds of Speech: Production and Perception)**
@@ -90,13 +92,13 @@ Finish phonetics, start phonology
 
 \[O'Grady\] Chapter 2, pp. 15–55.
 
-Eimas, Peter D., Einar R. Siqueland, et al. "{{% resource_link "fccf0328-326b-4810-97e6-74bbf9929986" "Speech Perception in Infants" %}}." *Science* 171, no. 3968 (1971): 303–6.
+Eimas, Peter D., Einar R. Siqueland, et al. "[Speech Perception in Infants](http://dx.doi.org/10.1126/science.171.3968.303)." *Science* 171, no. 3968 (1971): 303–6.
 
 *Watch both of the following video clips three ways: eyes open, volume up; eyes closed, volume up; eyes open, volume down.*
 
-hmcnally. "The McGurk effect." July 3, 2006. YouTube. Accessed February 14, 2013. {{% resource_link "bf9eec3a-e72d-4db5-8883-c9e8c8aa32a5" "http://www.youtube.com/watch?v=aFPtc8BVdJk" %}}
+hmcnally. "The McGurk effect." July 3, 2006. YouTube. Accessed February 14, 2013. [http://www.youtube.com/watch?v=aFPtc8BVdJk](http://www.youtube.com/watch?v=aFPtc8BVdJk)
 
-"{{% resource_link "71c1eb6c-0f4d-49b1-8b15-7fad7a02a78f" "The McGurk Effect" %}}," demonstrated by Prof. Patricia Kuhl.
+"[The McGurk Effect](http://auditoryneuroscience.com/?q=McGurkEffect)," demonstrated by Prof. Patricia Kuhl.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Phonology (Sounds of Speech: Their Grammar)**
@@ -198,13 +200,13 @@ Learning vs. innateness vs. maturation
 
 \[O'Grady\] Chapter 11, pp. 351–85.
 
-{{% resource_link "8552f168-07a7-48ac-b194-518c86302f91" "Manual babbling" %}} by hearing child exposed to sign language.
+[Manual babbling](https://docplayer.net/20772956-How-children-acquire-language-a-new-answer-by-dr-laura-ann-petitto.html) by hearing child exposed to sign language.
 
-{{% resource_link "0b8a36f8-e2c5-4417-ba47-4d3257a2c3dc" "\"Berko's Wug Experiment.\" (MOV - 2.4MB)" %}} with a 3 year-old child.
+["Berko's Wug Experiment." (MOV - 2.4MB)](http://www.maccs.mq.edu.au/facilities/acquisition/movies/Berkosexp.mov) with a 3 year-old child.
 
-{{% resource_link "26bab551-9a80-4c7b-8762-e0e2ad8e3830" "\"What Do You Think What She Said?\" (MOV - 5.4MB)" %}} Cognitive Neuroscience of Language Laboratory, University of Maryland.
+["What Do You Think What She Said?" (MOV - 5.4MB)](http://www.maccs.mq.edu.au/facilities/acquisition/movies/Whatdoyouthink.mov) Cognitive Neuroscience of Language Laboratory, University of Maryland.
 
-{{% resource_link "ca890f60-21e1-4820-a2f7-b5f7cbaab549" "\"Building the Morphological Puzzle: a Claim for Continuity.\" (MOV - 15.7MB)" %}} Cognitive Neuroscience of Language Laboratory, Department of Linguistics, University of Maryland.
+["Building the Morphological Puzzle: a Claim for Continuity." (MOV - 15.7MB)](http://www.maccs.mq.edu.au/facilities/acquisition/movies/Buildingpuzzles.mov) Cognitive Neuroscience of Language Laboratory, Department of Linguistics, University of Maryland.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Semantics (Grammar of Meaning) / Semantics and Pragmatics**
@@ -238,19 +240,19 @@ How many words for snow does Eskimo have? Should we care?
 
 {{< tdclose >}}{{< tdopen >}}
 
-Colapinto, John. "{{% resource_link "15ea41f7-4621-4c22-b94d-32db05b98792" "The Interpreter" %}}." *The New Yorker*, April 2007, 118–37.
+Colapinto, John. "[The Interpreter](http://www.newyorker.com/reporting/2007/04/16/070416fa_fact_colapinto)." *The New Yorker*, April 2007, 118–37.
 
-Everett, Daniel L. "{{% resource_link "c3ae005e-b991-49ca-8802-9b7aa2e681d8" "Cultural Constraints on Grammar and Cognition in Pirahã: Another Look at the Design Features of Human Language.\" (PDF)" %}} *Current Anthropology* 46, no. 4 (2005): 621–46.
+Everett, Daniel L. "[Cultural Constraints on Grammar and Cognition in Pirahã: Another Look at the Design Features of Human Language." (PDF)](http://www1.icsi.berkeley.edu/~kay/Everett.CA.Piraha.pdf) *Current Anthropology* 46, no. 4 (2005): 621–46.
 
 *A reply to the Everett article:*
 
- Nevins, Andrew Ira, David Pesetsky, et al. "{{% resource_link "6c13bdae-7a8c-45f9-a34f-1f854c47aad9" "Pirahã Exceptionality: a Reassessment" %}}." June 2009.
+ Nevins, Andrew Ira, David Pesetsky, et al. "[Pirahã Exceptionality: a Reassessment](http://ling.auf.net/lingbuzz/000411)." June 2009.
 
 Medvedev, Roy. "Stalin and Linguistics: An Episode from the History of Soviet Science." Chapter 10 in *The Unknown Stalin: His Life, Death, and Legacy.* Written by Roy Medvedev and Zhores Medvedev. Translated by Ellen Dahrendorf. The Overlook Press, 2005. ISBN: 9781585676446.
 
-Stalin, Joseph V. *Marxism and Problems of Linguistics*. Wildside Press, 2008. ISBN: 9781434463760. \[Preview with {{% resource_link "9bf2c2a4-11c0-45a4-b8ad-be8d30275536" "Google Books" %}}\]
+Stalin, Joseph V. *Marxism and Problems of Linguistics*. Wildside Press, 2008. ISBN: 9781434463760. \[Preview with [Google Books](http://books.google.com/books?id=jOiSe5CcgpQC&printsec=frontcover)\]
 
-Pullum, Geoffrey K. Chapter 19 in *The Great Eskimo Vocabulary Hoax and Other Irreverent Essays on the Study of Language*. University of Chicago Press, 1991. ISBN: 9780226685342. \[Preview with {{% resource_link "fc88470f-54dc-446e-9745-acb03c39e6f6" "Google Books" %}}\]
+Pullum, Geoffrey K. Chapter 19 in *The Great Eskimo Vocabulary Hoax and Other Irreverent Essays on the Study of Language*. University of Chicago Press, 1991. ISBN: 9780226685342. \[Preview with [Google Books](http://books.google.com/books?id=Tahaz-0F6zMC&pg=PA159#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Historical Change**
@@ -276,7 +278,7 @@ History of English
 
 \[O'Grady\] Chapter 7, pp. 245–91.
 
-Rosenfelder, Mark. "{{% resource_link "fff37b01-30fc-4e2f-a55d-b3769c5dd0e1" "How Likely Are Chance Resemblances Between Languages?" %}}" zomptist.com, 2002.
+Rosenfelder, Mark. "[How Likely Are Chance Resemblances Between Languages?](http://www.zompist.com/chance.htm)" zomptist.com, 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Dialects: Facts and Controversies**
@@ -296,16 +298,16 @@ The "Ebonics" controversy
 
 \[O'Grady\] Chapter 14, pp. 485–526.
 
-Culturize. "The Wire–How To Play Chess." October 2, 2010. YouTube. Accessed February 19, 2013. {{% resource_link "461ba9b7-eb05-4b54-a246-0406d5463b1b" "http://www.youtube.com/watch?v=y0mxz2-AQ64" %}} (*Listen for null copula and invariant be.*)
+Culturize. "The Wire–How To Play Chess." October 2, 2010. YouTube. Accessed February 19, 2013. [http://www.youtube.com/watch?v=y0mxz2-AQ64](http://www.youtube.com/watch?v=y0mxz2-AQ64) (*Listen for null copula and invariant be.*)
 
-SHNKArchives. "I Am Canadian: The Rant." September 13, 2012. YouTube. Accessed February 19, 2013. {{% resource_link "01ebf4cd-314f-48af-98ff-72d677e46c84" "http://www.youtube.com/watch?v=WMxGVfk09lU" %}}
+SHNKArchives. "I Am Canadian: The Rant." September 13, 2012. YouTube. Accessed February 19, 2013. [http://www.youtube.com/watch?v=WMxGVfk09lU](http://www.youtube.com/watch?v=WMxGVfk09lU)
 
-{{% resource_link "0687e838-5008-4925-b718-f8ee3adc433f" "Bill Cosby's address at the NAACP on the 50th anniversary of Brown v. Board of Education" %}}, May 17, 2004, americanrhetoric.com
+[Bill Cosby's address at the NAACP on the 50th anniversary of Brown v. Board of Education](http://www.americanrhetoric.com/speeches/billcosbypoundcakespeech.htm), May 17, 2004, americanrhetoric.com
 
-{{% resource_link "437f06d7-5e8b-46fb-841b-454c20fb8ee2" "Pound Cake speech" %}}, wikipedia.org.
+[Pound Cake speech](http://en.wikipedia.org/wiki/Pound_Cake_speech), wikipedia.org.
 
-Julie Corbett. "Shark Attacked Newfoundland NTV News." January 24, 2011. YouTube. Accessed February 19, 2013. {{% resource_link "fd3ef00d-288e-4301-8160-e89d31e7af1b" "http://www.youtube.com/watch?v=siG7HBBY1MQ" %}} (*Wait for the sound-bite interviews with the locals.*)
+Julie Corbett. "Shark Attacked Newfoundland NTV News." January 24, 2011. YouTube. Accessed February 19, 2013. [http://www.youtube.com/watch?v=siG7HBBY1MQ](http://www.youtube.com/watch?v=siG7HBBY1MQ) (*Wait for the sound-bite interviews with the locals.*)
 
-{{% resource_link "d01b01d9-eaa3-4c83-8c3d-a805e41d031a" "Interview with William Labov" %}}, All Things Considered, npr.org, 2006.
+[Interview with William Labov](http://www.npr.org/templates/story/story.php?storyId=5220090), All Things Considered, npr.org, 2006.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
