@@ -4,8 +4,6 @@ description: This file contains information regarding dialects.
 file: /courses/24-900-introduction-to-linguistics-fall-2012/1038e8418c6adeaacf5704cc1cbcd976_MIT24_900F12_Dialects.pdf
 file_size: 1652077
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

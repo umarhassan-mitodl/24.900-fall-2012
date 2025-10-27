@@ -5,8 +5,6 @@ description: 'This resource contains information regarding intro to linguistics 
 file: /courses/24-900-introduction-to-linguistics-fall-2012/78381a742646641c115842a114a36287_MIT24_900F12_Semantics.pdf
 file_size: 1200977
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
